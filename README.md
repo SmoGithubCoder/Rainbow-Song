@@ -1,2 +1,3 @@
 # Rainbow-Song
-Song about Rainbow
+
+A Song about Rainbows in the key C mahjor
